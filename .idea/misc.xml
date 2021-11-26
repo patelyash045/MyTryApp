@@ -3,9 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/yash.patel/AndroidStudioProjects/MyTryApp/app/src/main/res/layout/activity_main.xml" value="0.2601851851851852" />
+        <entry key="..\:/Users/yash.patel/AndroidStudioProjects/MyTryApp/app/src/main/res/drawable/home.xml" value="0.14537037037037037" />
+        <entry key="..\:/Users/yash.patel/AndroidStudioProjects/MyTryApp/app/src/main/res/drawable/person.xml" value="0.14537037037037037" />
+        <entry key="..\:/Users/yash.patel/AndroidStudioProjects/MyTryApp/app/src/main/res/layout/activity_main.xml" value="0.2491103202846975" />
         <entry key="..\:/Users/yash.patel/AndroidStudioProjects/MyTryApp/app/src/main/res/layout/fragment_applied.xml" value="0.2574074074074074" />
+        <entry key="..\:/Users/yash.patel/AndroidStudioProjects/MyTryApp/app/src/main/res/layout/fragment_home.xml" value="0.125" />
         <entry key="..\:/Users/yash.patel/AndroidStudioProjects/MyTryApp/app/src/main/res/layout/fragment_more.xml" value="0.175" />
+        <entry key="..\:/Users/yash.patel/AndroidStudioProjects/MyTryApp/app/src/main/res/layout/fragment_profile.xml" value="0.125" />
         <entry key="..\:/Users/yash.patel/AndroidStudioProjects/MyTryApp/app/src/main/res/menu/bottom_menu.xml" value="0.2601851851851852" />
       </map>
     </option>
